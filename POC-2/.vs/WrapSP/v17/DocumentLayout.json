@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|solutionrelative:src\\wrapsp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|solutionrelative:src\\wrapsp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\queries\\getallorders\\getallordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\queries\\getallorders\\getallordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\queries\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\queries\\getallorders\\getallordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\commands\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|solutionrelative:src\\wrapsp.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\WrapSP.Infrastructure\\WrapSP.Infrastructure.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\WrapSP.Infrastructure\\WrapSP.Infrastructure.csproj|solutionrelative:src\\wrapsp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\WrapSP.Infrastructure\\WrapSP.Infrastructure.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.infrastructure\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\WrapSP.Infrastructure\\WrapSP.Infrastructure.csproj|solutionrelative:src\\wrapsp.infrastructure\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\common\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\common\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\common\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\common\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\WrapSP.Api\\WrapSP.Api.csproj|solutionrelative:src\\wrapsp.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\commands\\deleteorder\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|c:\\projects\\simpli.fi\\net\u002Bwrapsp\\wrapsp\\src\\wrapsp.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\WrapSP.Application\\WrapSP.Application.csproj|solutionrelative:src\\wrapsp.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:15:15.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllOrdersQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQuery.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQuery.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQuery.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Queries\\GetAllOrders\\GetAllOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WrapSP.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\appsettings.json",
+              "RelativeToolTip": "src\\WrapSP.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T06:15:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Program.cs",
+              "RelativeToolTip": "src\\WrapSP.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:29:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:23:00.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\WrapSP.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:12:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\WrapSP.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Infrastructure\\Data\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Infrastructure\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Infrastructure\\Data\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\WrapSP.Infrastructure\\Data\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:42.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Common\\Interfaces\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Common\\Interfaces\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Common\\Interfaces\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Common\\Interfaces\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:22:09.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Queries\\GetOrderById\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:22:58.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Common\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Common\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Common\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Common\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:22:05.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAMwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-02T06:17:39.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "src\\WrapSP.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:12:42.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:22.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:09.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteOrderCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ToolTip": "C:\\Projects\\Simpli.fi\\NET\u002BWrapSP\\WrapSP\\src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeToolTip": "src\\WrapSP.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:07.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
